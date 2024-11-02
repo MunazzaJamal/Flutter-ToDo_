@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:todo_assign/dashboard.dart';
 import 'dashboard.dart';
-import 'package:todo_assign/dashboard.dart';
 
 class TasksView extends StatefulWidget {
   TasksView({super.key});
